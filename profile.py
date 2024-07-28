@@ -14,7 +14,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     #st.write("portfolio")
-    img = Image.open("logo.jpg")
+    img = Image.open("https://github.com/Nambukeerthi/profile/logo.jpg")
     st.image( img, use_column_width=True,channels="RGB" )
     
 with col2:
