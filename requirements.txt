@@ -1,5 +1,7 @@
 streamlit
-python PIL
-PyPI uv
+python 
+PIL
+PyPI 
+uv
 SQLAlchemy
 tkinter
