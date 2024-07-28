@@ -5,3 +5,4 @@ PyPI
 uv
 SQLAlchemy
 tkinter
+certifi
