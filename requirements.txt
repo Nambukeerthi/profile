@@ -6,3 +6,6 @@ uv
 SQLAlchemy
 tkinter
 certifi
+cache purge
+pip
+setuptools
