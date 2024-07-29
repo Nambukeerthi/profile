@@ -7,5 +7,6 @@ SQLAlchemy
 tkinter
 certifi
 cache purge
-pip
+pip 24.2
 setuptools
+--upgrade pip
