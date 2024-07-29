@@ -3,10 +3,9 @@ python
 PIL
 PyPI 
 uv
+pip 24.2
 SQLAlchemy
 tkinter
 certifi
-cache purge
-pip 24.2
 setuptools
 --upgrade pip
