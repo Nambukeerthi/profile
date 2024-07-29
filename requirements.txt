@@ -1,8 +1,9 @@
+-r requirements.txt
 streamlit
 python 
 PIL
 PyPI 
-uv -c
+uv 
 pip 
 SQLAlchemy
 tkinter
