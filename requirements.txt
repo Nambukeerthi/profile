@@ -1,9 +1,9 @@
 streamlit
-python=@3.12.4
+python
 PIL
 PyPI 
 uv 
-pip=@24.2 
+pip 
 SQLAlchemy
 tkinter
 certifi
