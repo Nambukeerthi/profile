@@ -2,10 +2,10 @@ streamlit
 python 
 PIL
 PyPI 
-uv
+uv -c
 pip 
 SQLAlchemy
 tkinter
 certifi
 setuptools
---upgrade pip
+
